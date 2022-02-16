@@ -1,0 +1,22 @@
+
+    .navbar{
+        background: #000;
+    }
+    .nav-item:hover {
+        font-size: large;
+        text-decoration: solid;
+        
+       
+    }
+    .zoom:hover {
+        transform-origin: 50% 65%;
+     
+        filter: brightness(150%);
+      }
+
+    .bgg{
+        background-color: rgb(29, 28, 28);
+        color:white;
+     
+    }
+    
